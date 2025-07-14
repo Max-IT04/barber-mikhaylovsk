@@ -368,7 +368,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media screen and (max-width: 768px) {
   .full-width-section {
-    height: auto; /* Автоматическая высота для контента */
+    height: auto; 
     flex-direction: column; /* Расположение контейнеров в столбец */
     align-items: center; /* Центрирование элементов по центру */
   }
